@@ -2,7 +2,7 @@ API for rotating a page of PDF file.
 
 ## Run Locally (cmd)
 
-Clone the repository "https://github.com/vaibbhavk/rotate-pdf-page"
+Clone the repository https://github.com/vaibbhavk/rotate-pdf-page
 
 Go to the project directory
 
@@ -32,7 +32,7 @@ Start the server
 
 ## Run Locally (bash)
 
-Clone the repository "https://github.com/vaibbhavk/rotate-pdf-page"
+Clone the repository https://github.com/vaibbhavk/rotate-pdf-page
 
 Go to the project directory
 
@@ -62,4 +62,4 @@ Start the server
 
 ## Author
 
-- Vaibhav Kesharwani (https://vaibhav-kesharwani.me)
+- [Vaibhav Kesharwani](https://vaibhav-kesharwani.me)
